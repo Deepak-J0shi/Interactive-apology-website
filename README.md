@@ -1,4 +1,4 @@
-# **Romantic Sorry Website (Interactive Apology Experience)**
+# **Interactive Apology Experience**
 
 An interactive, aesthetic, and emotionally engaging **“Say Sorry” website** built with **React + Tailwind CSS**, designed to apologize in a playful yet heartfelt way.
 The website combines storytelling, animations, playful interactions, and a celebratory ending to turn an apology into a memorable experience.
@@ -6,7 +6,6 @@ The website combines storytelling, animations, playful interactions, and a celeb
 Live Demo: *(https://say-sorry-website.vercel.app/)*
 
 
-<img width="1366" height="644" alt="image" src="https://github.com/user-attachments/assets/ce64f6ac-c13e-48db-a3db-b8a4dacaff6f" />
 
 ---
 
