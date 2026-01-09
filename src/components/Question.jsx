@@ -103,7 +103,7 @@ const Question = ({ onYes }) => {
       <div className="relative bg-white/90 backdrop-blur-xl rounded-[3rem] p-14 shadow-2xl text-center max-w-xl w-full">
 
         <h2 className="text-4xl font-semibold text-gray-700 mb-14">
-          Kya tum ab bhi naraz ho? 🥺
+          Kya ab tumhari narazagi kahatm ho gyii? 🥺
         </h2>
 
         {/* Button Area */}
